@@ -8,7 +8,7 @@ End-to-end Excel analysis identifying why Databel, a telecom provider, is losing
 
 ---
 
-## 📌 Executive Summary
+# 📌 Executive Summary
 
 Databel, a telecom company, was losing a significant share of its customer base and needed to understand **why customers were leaving and which segments were most at risk**. This project analyzes a dataset of **6,687 customers**, of which **1,796 churned — an overall churn rate of 26.9%.**
 
@@ -16,11 +16,12 @@ Using Microsoft Excel, the dataset was cleaned, transformed, and explored to unc
 
 **Key finding:** Churn is heavily concentrated among **senior, month-to-month customers on unlimited data plans who barely use their data** — a segment that is highly price-sensitive and easily lured away by competitor offers.
 
-<!-- 📸 ADD SCREENSHOT HERE: Full dashboard overview image -->
+[Dashboard](https://github.com/Muhammad-hassan18/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20Dashboard.png)
+
 
 ---
 
-## ❓ Business Problem
+# ❓ Business Problem
 
 Databel's leadership noticed a steady decline in its subscriber base but lacked a clear, data-backed explanation of the underlying causes. Without this insight, the company could not:
 
@@ -32,7 +33,7 @@ Databel's leadership noticed a steady decline in its subscriber base but lacked 
 
 ---
 
-## 🛠 Methodology
+# 🛠 Methodology
 
 The analysis followed a structured, end-to-end workflow entirely in Excel:
 
@@ -49,7 +50,7 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 ---
 
-## 🧠 Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 - **Data Cleaning & Preparation** – formatting, standardization, duplicate removal
 - **Exploratory Data Analysis (EDA)** in Excel
@@ -61,7 +62,7 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 ---
 
-## 📈 Results
+# 📈 Results
 
 | Metric | Value |
 |---|---|
@@ -84,7 +85,7 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 ---
 
-## 💡 Business Recommendations
+# 💡 Business Recommendations
 
 1. **Incentivize contract upgrades.** Since Month-to-Month customers churn at over 16x the rate of Two-Year customers, offer targeted discounts, device upgrades, or loyalty perks to convert Month-to-Month subscribers to annual or two-year plans.
 2. **Launch a senior retention program.** Given seniors churn at 38%+, create simplified plans, senior-specific support lines, and proactive check-ins for this segment before they consider leaving.
@@ -95,7 +96,7 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 ---
 
-## 📂 Project Contents
+# 📂 Project Contents
 
 - `Customer_Churn_Analysis_Project_File.xlsx` — Full Excel workbook containing the cleaned dataset, pivot analysis, churn calculations, and interactive dashboard.
 
@@ -109,9 +110,9 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 ---
 
-## 👤 Author
+# 👤 Author
 
-**Hsn** — Final-Year BSCS Student
+**Muhammad Hassan** — Final-Year BSCS Student
 Feel free to connect or reach out with feedback/questions.
 
 <!-- 📸 ADD LINK/BADGES HERE: LinkedIn, portfolio, or email -->
