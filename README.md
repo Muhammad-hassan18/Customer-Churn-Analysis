@@ -80,9 +80,9 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 - **📶 Low-usage customers on unlimited plans churn the most** — customers who use **less than 5GB** of data but are subscribed to an **unlimited data plan** churn at **~35%**, notably higher than low-usage customers on limited plans (~13%). This points to customers questioning the value of a plan they aren't using.
 - **🏆 Competitor activity is the #1 named reason for leaving** — "Competitor made better offer" and "Competitor had better devices" together account for the largest share of named churn reasons, followed by dissatisfaction with support ("Attitude of support person") and pricing concerns.
 
-<img width="400" height="300" alt="churn by age group" src="https://github.com/user-attachments/assets/e6bc01da-9165-46a1-be02-a77f903535c8" /> 
+<img width="430" height="300" alt="churn by age group" src="https://github.com/user-attachments/assets/e6bc01da-9165-46a1-be02-a77f903535c8" /> 
 
-<img width="400" height="300" alt="Churn By Data usage" src="https://github.com/user-attachments/assets/1063a9c6-5952-4103-bb5f-3f184aeb5468" />
+<img width="430" height="300" alt="Churn By Data usage" src="https://github.com/user-attachments/assets/1063a9c6-5952-4103-bb5f-3f184aeb5468" />
 
 <img width="166" height="337" alt="Churn Rate by state" src="https://github.com/user-attachments/assets/788dc6f1-c005-4ed4-af36-b867705e2bae" />
 
