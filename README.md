@@ -38,14 +38,14 @@ Databel's leadership noticed a steady decline in its subscriber base but lacked 
 
 The analysis followed a structured, end-to-end workflow entirely in Excel:
 
-1. **Data Formatting** – Standardized and formatted both raw data sheets (headers, data types, consistent labeling) to prepare them for analysis.
-2. **Data Cleaning** – Identified and removed duplicate records to ensure each customer was represented once.
-3. **Churn Calculation** – Calculated the overall churn rate and flagged churned vs. retained customers.
-4. **Churn Reason Investigation** – Broke churn down by **Churn Category** (Competitor, Attitude, Dissatisfaction, Price, Other) and specific **Churn Reason** to find the leading causes.
-5. **Churn Category Deep-Dive** – Analyzed each churn category further to understand its weight and drivers relative to total churn.
-6. **Demographic Analysis** – Segmented churn by age group (Senior / Under 30 / Other), gender, and state to uncover which customer profiles churn most.
-7. **Behavioral & Plan Analysis** – Examined churn against contract type, data plan (unlimited vs. limited), and average monthly data usage.
-8. **Dashboard Design** – Built an interactive, multi-panel Excel dashboard (with slicers/filters) to let stakeholders explore the findings dynamically.
+1. **Data Formatting**  Standardized and formatted both raw data sheets (headers, data types, consistent labeling) to prepare them for analysis.
+2. **Data Cleaning**  Identified and removed duplicate records to ensure each customer was represented once.
+3. **Churn Calculation**  Calculated the overall churn rate and flagged churned vs. retained customers.
+4. **Churn Reason Investigation**  Broke churn down by **Churn Category** (Competitor, Attitude, Dissatisfaction, Price, Other) and specific **Churn Reason** to find the leading causes.
+5. **Churn Category Deep-Dive**  Analyzed each churn category further to understand its weight and drivers relative to total churn.
+6. **Demographic Analysis**  Segmented churn by age group (Senior / Under 30 / Other), gender, and state to uncover which customer profiles churn most.
+7. **Behavioral & Plan Analysis**  Examined churn against contract type, data plan (unlimited vs. limited), and average monthly data usage.
+8. **Dashboard Design**  Built an interactive, multi-panel Excel dashboard (with slicers/filters) to let stakeholders explore the findings dynamically.
 
 <img width="1536" height="1024" alt="DATA DIAGRAM" src="https://github.com/user-attachments/assets/e96a3325-5278-444a-ac63-559f421354ea" />
 
@@ -54,13 +54,13 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 # 🧠 Skills Demonstrated
 
-- **Data Cleaning & Preparation** – formatting, standardization, duplicate removal
+- **Data Cleaning & Preparation**  formatting, standardization, duplicate removal
 - **Exploratory Data Analysis (EDA)** in Excel
-- **Pivot Tables & Pivot Charts** for multi-dimensional churn breakdowns
+- **Pivot Tables & Pivot Charts** for multi dimensional churn breakdowns
 - **Formulas & Functions** (e.g., COUNTIFS, SUMIFS, AVERAGEIFS) for churn rate and segment calculations
-- **Data Visualization** – charts, conditional formatting, and KPI cards
-- **Interactive Dashboard Design** – slicers, filters, and a unified single-view report
-- **Business/Analytical Storytelling** – translating raw numbers into actionable insight
+- **Data Visualization** charts, conditional formatting, and KPI cards
+- **Interactive Dashboard Design** slicers, filters, and a unified single-view report
+- **Business/Analytical Storytelling** translating raw numbers into actionable insight
 
 ---
 
@@ -74,11 +74,11 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 ### Key Insights
 
-- **👴 Seniors churn at nearly double the rate of others** — Senior customers churn at **38.2%**, compared to **24.3%** for non-seniors.
+- **👴 Seniors churn at nearly double the rate of others**  Senior customers churn at **38.2%**, compared to **24.3%** for non-seniors.
 - **📍 California has the highest churn rate** among all states, standing well above the national average, followed by states like OH, PA, MD, and NE.
-- **📅 Contract type is the single strongest churn driver** — Month-to-Month customers churn at **46.3%**, versus **11.3%** for One-Year and just **2.8%** for Two-Year contracts. Customers on Two-Year plans are the most loyal segment by a wide margin.
-- **📶 Low-usage customers on unlimited plans churn the most** — customers who use **less than 5GB** of data but are subscribed to an **unlimited data plan** churn at **~35%**, notably higher than low-usage customers on limited plans (~13%). This points to customers questioning the value of a plan they aren't using.
-- **🏆 Competitor activity is the #1 named reason for leaving** — "Competitor made better offer" and "Competitor had better devices" together account for the largest share of named churn reasons, followed by dissatisfaction with support ("Attitude of support person") and pricing concerns.
+- **📅 Contract type is the single strongest churn driver**  Month-to-Month customers churn at **46.3%**, versus **11.3%** for One-Year and just **2.8%** for Two-Year contracts. Customers on Two-Year plans are the most loyal segment by a wide margin.
+- **📶 Low-usage customers on unlimited plans churn the most**  customers who use **less than 5GB** of data but are subscribed to an **unlimited data plan** churn at **~35%**, notably higher than low-usage customers on limited plans (~13%). This points to customers questioning the value of a plan they aren't using.
+- **🏆 Competitor activity is the #1 named reason for leaving**  "Competitor made better offer" and "Competitor had better devices" together account for the largest share of named churn reasons, followed by dissatisfaction with support ("Attitude of support person") and pricing concerns.
 
 <img width="410" height="300" alt="churn by age group" src="https://github.com/user-attachments/assets/e6bc01da-9165-46a1-be02-a77f903535c8" /> 
 
