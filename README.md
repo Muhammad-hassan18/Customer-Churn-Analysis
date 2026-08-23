@@ -84,7 +84,7 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 <img width="400" height="300" alt="Churn By Data usage" src="https://github.com/user-attachments/assets/1063a9c6-5952-4103-bb5f-3f184aeb5468" />
 
-<img width="166" height="337" alt="Churn Rate by state" src="https://github.com/user-attachments/assets/788dc6f1-c005-4ed4-af36-b867705e2bae" />
+
 
 
 
