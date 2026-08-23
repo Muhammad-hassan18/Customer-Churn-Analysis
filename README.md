@@ -1,6 +1,6 @@
 # 📊 Databel Customer Churn Analysis
 
-End-to-end Excel analysis identifying why Databel, a telecom provider, is losing customers — and what to do about it.
+End to end Excel analysis identifying why Databel, a telecom provider, is losing customers and what to do about it.
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
@@ -10,11 +10,11 @@ End-to-end Excel analysis identifying why Databel, a telecom provider, is losing
 
 # 📌 Executive Summary
 
-Databel, a telecom company, was losing a significant share of its customer base and needed to understand **why customers were leaving and which segments were most at risk**. This project analyzes a dataset of **6,687 customers**, of which **1,796 churned — an overall churn rate of 26.9%.**
+Databel, a telecom company, was losing a significant share of its customer base and needed to understand **why customers were leaving and which segments were most at risk**. This project analyzes a dataset of **6,687 customers**, of which **1,796 churned an overall churn rate of 26.9%.**
 
 Using Microsoft Excel, the dataset was cleaned, transformed, and explored to uncover the demographic, behavioral, and contractual drivers behind churn. The analysis was then consolidated into an interactive Excel dashboard that lets stakeholders slice churn by state, contract type, age group, payment method, and data usage.
 
-**Key finding:** Churn is heavily concentrated among **senior, month-to-month customers on unlimited data plans who barely use their data** — a segment that is highly price-sensitive and easily lured away by competitor offers.
+**Key finding:** Churn is heavily concentrated among **senior, month-to-month customers on unlimited data plans who barely use their data** a segment that is highly price-sensitive and easily lured away by competitor offers.
 
 <img width="821" height="373" alt="Customer Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/d2429268-a821-458b-95ec-18cb2d13aed7" />
 
@@ -24,7 +24,7 @@ Using Microsoft Excel, the dataset was cleaned, transformed, and explored to unc
 
 # ❓ Business Problem
 
-Databel's leadership noticed a steady decline in its subscriber base but lacked a clear, data-backed explanation of the underlying causes. Without this insight, the company could not:
+Databel's leadership noticed a steady decline in its subscriber base but lacked a clear, data backed explanation of the underlying causes. Without this insight, the company could not:
 
 - Identify which customer segments were most likely to churn
 - Prioritize retention efforts and budget effectively
@@ -47,7 +47,8 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 7. **Behavioral & Plan Analysis** – Examined churn against contract type, data plan (unlimited vs. limited), and average monthly data usage.
 8. **Dashboard Design** – Built an interactive, multi-panel Excel dashboard (with slicers/filters) to let stakeholders explore the findings dynamically.
 
-<!-- 📸 ADD DIAGRAM HERE: Workflow/process diagram of the methodology steps above -->
+<img width="1536" height="1024" alt="DATA DIAGRAM" src="https://github.com/user-attachments/assets/e96a3325-5278-444a-ac63-559f421354ea" />
+
 
 ---
 
@@ -79,10 +80,13 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 - **📶 Low-usage customers on unlimited plans churn the most** — customers who use **less than 5GB** of data but are subscribed to an **unlimited data plan** churn at **~35%**, notably higher than low-usage customers on limited plans (~13%). This points to customers questioning the value of a plan they aren't using.
 - **🏆 Competitor activity is the #1 named reason for leaving** — "Competitor made better offer" and "Competitor had better devices" together account for the largest share of named churn reasons, followed by dissatisfaction with support ("Attitude of support person") and pricing concerns.
 
-<!-- 📸 ADD SCREENSHOT HERE: Churn by Contract Type chart -->
-<!-- 📸 ADD SCREENSHOT HERE: Churn by State map/chart -->
-<!-- 📸 ADD SCREENSHOT HERE: Churn by Age Group / Senior segment chart -->
-<!-- 📸 ADD SCREENSHOT HERE: Churn by Data Usage & Plan Type chart -->
+<img width="527" height="330" alt="churn by age group" src="https://github.com/user-attachments/assets/e6bc01da-9165-46a1-be02-a77f903535c8" /> 
+
+<img width="353" height="251" alt="Churn By Data usage" src="https://github.com/user-attachments/assets/1063a9c6-5952-4103-bb5f-3f184aeb5468" />
+
+<img width="166" height="337" alt="Churn Rate by state" src="https://github.com/user-attachments/assets/788dc6f1-c005-4ed4-af36-b867705e2bae" />
+
+
 
 ---
 
