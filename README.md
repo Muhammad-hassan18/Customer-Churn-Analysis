@@ -16,7 +16,8 @@ Using Microsoft Excel, the dataset was cleaned, transformed, and explored to unc
 
 **Key finding:** Churn is heavily concentrated among **senior, month-to-month customers on unlimited data plans who barely use their data** — a segment that is highly price-sensitive and easily lured away by competitor offers.
 
-[Dashboard](https://github.com/Muhammad-hassan18/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20Dashboard.png)
+[![Dashboard]([https://google.com](https://github.com/Muhammad-hassan18/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20Dashboard.png))]
+
 
 
 ---
