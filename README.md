@@ -117,7 +117,7 @@ The analysis followed a structured, end-to-end workflow entirely in Excel:
 
 # 👤 Author
 
-**Muhammad Hassan** — Final-Year BSCS Student
+**Muhammad Hassan** — Final Year BSCS Student
 Feel free to connect or reach out with feedback/questions.
 
 <!-- 📸 ADD LINK/BADGES HERE: LinkedIn, portfolio, or email -->
