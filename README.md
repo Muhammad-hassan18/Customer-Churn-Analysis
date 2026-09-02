@@ -8,7 +8,7 @@ End to end Excel analysis identifying why Databel, a telecom provider, is losing
 
 ---
 
-# 📌 Executive Summary
+# 📌 Executive Summary 
 
 Databel, a telecom company, was losing a significant share of its customer base and needed to understand **why customers were leaving and which segments were most at risk**. This project analyzes a dataset of **6,687 customers**, of which **1,796 churned an overall churn rate of 26.9%.**
 
